@@ -25,7 +25,7 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 ## Install Instructions
 
-Navigate to 
+Navigate to https://intense-dusk-06192.herokuapp.com/
 
   
 ## Usage Instructions
@@ -33,7 +33,8 @@ Navigate to
 View global posts on the home page. Login or signup to for accessand the ability to leave comments. Once logged in, navigate to the dashboard to view your posts, or create, update and delete posts.
 
 ## Images
-<img src="./public/images/screenshot.png"></img>
+<img src="./public/images/screenshot1.png"></img>
+<img src="./public/images/screenshot2.png"></img>
 
 ## License
   
