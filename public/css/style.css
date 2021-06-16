@@ -1,0 +1,76 @@
+.navbar {
+  color: #112D4E !important;
+}
+
+.card {
+  padding: 2px;
+  margin: 5px;
+  color: #c7bdff !important;
+  background-color: #DBE2EF;
+}
+
+body {
+  cursor: pointer;
+  color: #112D4E !important;
+  text-decoration: none;
+  background-color: #F9F7F7;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+a {
+  color: #112D4E;
+  text-decoration: none;
+}
+
+.commentCard {
+  background-color: transparent;
+  color: black !important;
+}
+
+.cardLink:hover {
+  background-color: #3F72AF;
+  }
+
+footer {
+  margin-top: 50px;
+}
+
+.form-control {
+  margin: 5px 0px 5px 0px;
+}
+
+.material-icons { 
+  font-size: 36px;
+  padding-left: 10px;
+  padding-right: 10px; 
+}
+
+.navbar-brand {
+  font-size: 24px;
+  float: right;
+}
+
+.navbar-inner {
+  text-align: center;
+}
+
+.card-title {
+  font-size: 22px;
+}
+
+.ga_icons {
+  color: #112D4E;
+}
+
+.card-description {
+  font-size: 20px;
+}
+
+.card-author {
+  font-size: 16px;
+}
